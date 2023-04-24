@@ -1,5 +1,4 @@
-# Nome do Projeto
-##Pricing-Table<br>
+<h1>Pricing-Table</h1><br>
 Descrição breve do projeto.
 
 <h3>Tecnologias Utilizadas</h3>
