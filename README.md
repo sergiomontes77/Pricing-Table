@@ -13,7 +13,7 @@ Abra o arquivo <strong>"index.html"</strong> em seu navegador
 Sinta-se livre para contribuir com o projeto. Sugestões, críticas construtivas e pull requests são sempre bem-vindos.
 
 ```
-Criado Sérgio - GitHub<br>
+Criado por Sérgio - GitHub
  ```
 <a href="https://github.com/sergiomontes77" target="_blank">Sérgio - GitHub</a>
 
